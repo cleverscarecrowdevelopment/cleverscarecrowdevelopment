@@ -1,10 +1,6 @@
 - 👋 Hi, We are @cleverscarecrowdevelopment
 - 👀 We are a game development team
-- 🌱
-- 💞️
-- 📫 
-- 😄
-- ⚡
+
 
 <!---
 cleverscarecrowdevelopment/cleverscarecrowdevelopment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
